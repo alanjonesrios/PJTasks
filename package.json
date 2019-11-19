@@ -1,0 +1,17 @@
+{
+  "name": "PJTasks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/alanjonesrios/PJTasks.git",
+  "author": "Alan <alan@loopier.com.br>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
